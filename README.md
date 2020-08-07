@@ -1,4 +1,5 @@
-# A liitle about myself
-Hello World!!!
-## My hobbies
-Volleybal
+![headshot](HelloWorld.png)
+# Main Theme
+smth
+## Secondary Theme
+smth less
